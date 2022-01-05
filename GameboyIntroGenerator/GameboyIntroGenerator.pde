@@ -6,8 +6,8 @@ final String SUBTITLE = "PERFORMANCE REEL";
 int TEXTSIZE = 0;
 final int ANIMATIONLENGTH = 4;
 final int FRAMERATE = 60;
-final boolean SAVEGIF = false; //helpful for previewing without saving
-final boolean SAVEFRAMES = false; //Save the frames to create a non-gif video with processing's movie maker
+final boolean SAVEGIF = true; //helpful for previewing without saving
+final boolean SAVEFRAMES = true; //Save the frames to create a non-gif video with processing's movie maker
 
 PFont TitleFont;
 PFont SubTitleFont;
